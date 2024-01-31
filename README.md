@@ -1,5 +1,5 @@
 ## Demo   
-https://www.youtube.com/watch?v=ftpaYy7A6dA
+https://github.com/tejalgup/Cloud-10/assets/111660684/fa90993f-be40-46c8-b64e-2eee83512c06
 ## Inspiration
 I've always loved rhythm games. Some of the more interactive ones require a lot of equipment and aren't easily accessible for those suffering from physical hardships. I created Cloud 10, an inclusive game ,meant to get you dancing!
 ## What it does
